@@ -13,7 +13,7 @@
   <div class="container">
     <div class="ui segment">
       <section class="tracks">
-
+        <audio src=""></audio>
       </section>
     </div>
   </div>
@@ -21,9 +21,9 @@
   <script type="text/template" id="tracksTemplate">
     {{#tracks}}
     <h2>
-      <i class="fa fa-play sw-pad" data-id="{{id}}" data-title="{{title}}"></i>
+      <i class="fa fa-play sw-pad" data-id="{{id}}" data-title="{{title}}" data-src="{{src}}"></i>
       {{title}} by {{artist}}
-      <audio src="tracks/{{file}}.mp3" id="{{id}}"></audio>
+      
     </h2>
     {{/tracks}}
   </script>
