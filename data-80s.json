@@ -1,0 +1,28 @@
+{
+  "tracks": [
+    {
+      "id": "1",
+      "title": "I Wanna Rock",
+      "file": "Twisted Sister - I Wanna Rock",
+      "artist": "Twisted Sister"
+    },
+    {
+      "id": "2",
+      "title": "Still of the night",
+      "file": "Whitesnake - Still of the night",
+      "artist": "Whitesnake"
+    },
+    {
+      "id": "3",
+      "title": "Come On Feel The Noize",
+      "file": "Quiet Riot - Cum On Feel The Noize",
+      "artist": "Quiet Riot"
+    },
+    {
+      "id": "4",
+      "title": "Smells Like Teen Spirit",
+      "file": "Nirvana - Smells Like Teen Spirit",
+      "artist": "Nirvana"
+    }
+  ]
+}
